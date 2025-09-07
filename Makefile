@@ -21,7 +21,7 @@ SRC				:= ./get_next_line/get_next_line.c \
 ./srcs/utils.c \
 ./srcs/main.c \
 ./srcs/ft_init.c \
-./srcs/ft_init_tuxture.c \
+./srcs/ft_init_texture.c \
 ./srcs/ft_check.c \
 ./srcs/free_exit_error.c \
 ./srcs/parsing/pars_utils.c \
