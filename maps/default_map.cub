@@ -1,0 +1,14 @@
+NO ./textures/wolfenstein/wood.xpm
+SO ./textures/wolfenstein/mossy.xpm
+WE ./textures/wolfenstein/eagle.xpm
+EA ./textures/wolfenstein/red_brick.xpm
+
+F 20,20,20
+C 200,200,200
+
+1111111111111
+1001011000001
+1010000000001
+1100N11010101
+1000011111111
+1111111111111
